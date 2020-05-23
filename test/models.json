@@ -4409,6 +4409,20 @@
   },
   {
     "type":   "sklearn",
+    "target": "column_pipeline.pkl",
+    "source": "https://github.com/lutzroeder/netron/files/4672437/column_pipeline.zip[column_pipeline.pkl]",
+    "format": "scikit-learn v0.22.1",
+    "link":   "https://github.com/lutzroeder/netron/issues/498"
+  },
+  {
+    "type":   "sklearn",
+    "target": "column_transformer_pipeline.pkl",
+    "source": "https://github.com/lutzroeder/netron/files/4672438/column_transformer_pipeline.zip[column_transformer_pipeline.pkl]",
+    "format": "scikit-learn v0.22.1",
+    "link":   "https://github.com/lutzroeder/netron/issues/498"
+  },
+  {
+    "type":   "sklearn",
     "target": "d2v.model",
     "source": "https://raw.githubusercontent.com/aseth99/doc2vec/master/d2v.model",
     "format": "gensim"
